@@ -29,13 +29,13 @@ Real money moves through this every day. Party bookings, memberships, gift cards
 
 I open a PR a week-ish into projects I actually use. Recent:
 
-| Project | Stars | Status |
-|---|---|---|
-| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 5.8k | Merged |
-| [archlinux/archinstall](https://github.com/archlinux/archinstall) | — | Open |
-| [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) | — | Open |
-| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | — | Open |
-| [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) | — | Merged |
+| Project | Stars | PR | Status |
+|---|---|---|---|
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 5.8k | [#11865](https://github.com/stdlib-js/stdlib/pull/11865) — fix JS lint errors | Merged |
+| [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) | 1.5k | [#6324](https://github.com/deltachat/deltachat-desktop/pull/6324) — case-insensitive image ext | Merged |
+| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.5k | [#6868](https://github.com/Eventual-Inc/Daft/pull/6868) — bump min PyArrow to 16 | Open |
+| [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) | 1.5k | [#3793](https://github.com/jaegertracing/jaeger-ui/pull/3793) — fix style key typos | Open |
+| [archlinux/archinstall](https://github.com/archlinux/archinstall) | 8.2k | [#4506](https://github.com/archlinux/archinstall/pull/4506) — restrict EFI partition perms | Open |
 
 ## Stack I reach for
 
