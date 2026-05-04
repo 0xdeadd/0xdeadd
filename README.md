@@ -45,4 +45,4 @@ TypeScript, Next.js (App Router), Postgres, Prisma, Stripe, Tailwind, Zustand, Z
 
 - Senior / Staff engineering roles (remote, or Atlanta in-office — I'm 45 min south)
 - Indie consulting on Stripe integrations, Next.js apps, or rescuing tangled Postgres schemas
-- Recruiter inbound — clint@technolo.co
+- Recruiter inbound — clintdotphillips@gmail.com
