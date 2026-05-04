@@ -39,7 +39,7 @@ I open a PR a week-ish into projects I actually use. Recent:
 
 ## Stack I reach for
 
-TypeScript, Next.js (App Router), Postgres, Prisma, Stripe, Tailwind, Zustand, Zod. Comfortable in Python and shell when the job calls for it. Heavy AI-tooling user — Claude Code Max daily, and I can show receipts on what that actually changes about throughput.
+TypeScript, Next.js (App Router), Postgres, Prisma, Stripe, Tailwind, Zustand, Zod. Comfortable in Python and shell when the job calls for it.
 
 ## Open to
 
