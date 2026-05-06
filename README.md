@@ -2,7 +2,7 @@
 
 Operator-engineer. I write the code that runs my own business and clients' businesses too.
 
-Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)** — a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
+Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)**, a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
 
 **Live numbers (180 days in production):**
 
@@ -13,10 +13,10 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 
 ## What I build
 
-- **Stripe integrations** — Checkout, Payment Intents, Terminal (in-person card readers), Connect, webhooks. Idempotent, reconciled, refundable.
-- **Next.js production builds** — App Router, server components, edge auth, Postgres. The kind where the demo and the prod are the same code.
-- **Postgres rescues** — schema cleanup, index strategy, migrations that ship under load without a maintenance window.
-- **Operator-grade systems** — code shipped under the same person who has to live with the bugs.
+- **Stripe integrations.** Checkout, Payment Intents, Terminal (in-person card readers), Connect, webhooks. Idempotent, reconciled, refundable.
+- **Next.js production builds.** App Router, server components, edge auth, Postgres. The kind where the demo and the prod are the same code.
+- **Postgres rescues.** Schema cleanup, index strategy, migrations that ship under load without a maintenance window.
+- **Operator-grade systems.** Code shipped under the same person who has to live with the bugs.
 
 ## Open source
 
