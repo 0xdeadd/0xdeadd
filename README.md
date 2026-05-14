@@ -20,7 +20,7 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 
 ## Open source
 
-I open a PR a week-ish into projects I actually use. Mix of one-line typo patches and substantive features — the workflow practice across submission cultures (GitHub, LKML email, GitLab MR, direct-to-maintainer) matters as much as the code.
+**Past 30 days: 16 contributions across 11 projects** (3 merged, 7 in flight, plus 1 patch to the Linux kernel via LKML). Mix of one-line typo patches and substantive features. The workflow practice across submission cultures (GitHub, LKML email, GitLab MR, direct-to-maintainer) matters as much as the code.
 
 ### Recent contributions
 
