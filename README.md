@@ -11,6 +11,29 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 - 2,105 paid bookings completed
 - 0.05% refund rate (1 of 1,976)
 
+## Featured projects
+
+<a href="https://github.com/0xdeadd/zanysplayworld-case-study">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0xdeadd&repo=zanysplayworld-case-study&theme=transparent&hide_border=true" width="380" alt="zanysplayworld-case-study" />
+</a>
+<a href="https://github.com/0xdeadd/agentscreens">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=0xdeadd&repo=agentscreens&theme=transparent&hide_border=true" width="380" alt="agentscreens" />
+</a>
+<br clear="both" />
+
+<a href="https://github.com/0xdeadd/worktree">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0xdeadd&repo=worktree&theme=transparent&hide_border=true" width="380" alt="worktree" />
+</a>
+<a href="https://github.com/0xdeadd/reverseturk">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=0xdeadd&repo=reverseturk&theme=transparent&hide_border=true" width="380" alt="reverseturk" />
+</a>
+<br clear="both" />
+
+<a href="https://github.com/0xdeadd/stripe-status">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0xdeadd&repo=stripe-status&theme=transparent&hide_border=true" width="380" alt="stripe-status" />
+</a>
+<br clear="both" />
+
 ## What I build
 
 - **Stripe integrations.** Checkout, Payment Intents, Terminal (in-person card readers), Connect, webhooks. Idempotent, reconciled, refundable.
