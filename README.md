@@ -20,7 +20,22 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 
 ## Open source
 
-I open a PR a week-ish into projects I actually use. Recent: stdlib-js, Delta Chat Desktop, Daft, Jaeger UI, Arch Linux installer, Cloud Init.
+I open a PR a week-ish into projects I actually use. Mix of one-line typo patches and substantive features — the workflow practice across submission cultures (GitHub, LKML email, GitLab MR, direct-to-maintainer) matters as much as the code.
+
+### Recent contributions
+
+| Project | PR / patch | What |
+|---|---|---|
+| [Linux kernel](https://lore.kernel.org/all/20260513195956.25307-1-clintdotphillips@gmail.com/) | LKML | docs: sphinx-static typo fix, sent via `git send-email` to Jonathan Corbet + linux-doc |
+| [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python/pull/1545) | #1545 | `tool_runner`: fix infinite loop when caller appends unrelated messages inside the loop body (closes #1536) |
+| [stripe/stripe-cli](https://github.com/stripe/stripe-cli/pull/1590) | #1590 | `fixtures`: accept multiple files, executed sequentially (closes #910) |
+| [archlinux/archinstall](https://github.com/archlinux/archinstall/pull/4506) | #4506 | Restrict EFI partition perms with `fmask=0077,dmask=0077` (security fix for #4241) |
+| [Arch `filesystem` package](https://gitlab.archlinux.org/archlinux/packaging/packages/filesystem) | email patch | Companion PKGBUILD fix: bump `/boot` perm 0755 → 0700 to silence pacstrap warning |
+| [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com/pull/901) | #901 | docs typo fix in blog post (merged) |
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib/pull/11865) | #11865 | JS lint errors (merged) |
+| [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop/pull/6324) | #6324 | case-insensitive image extension detection (merged) |
+
+Also in flight on `makeplane/plane`, `Eventual-Inc/Daft`, `jaegertracing/jaeger-ui`, `canonical/cloud-init`.
 
 ## Contact
 
