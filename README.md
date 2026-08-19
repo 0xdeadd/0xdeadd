@@ -1,15 +1,39 @@
+<div align="center">
+
 # Clint Phillips
 
-Operator-engineer. I write the code that runs my own business and clients' businesses too.
+**Operator-engineer. I write the code that runs my own business — and my clients' businesses too.**
 
-Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)**, a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
+[![Website](https://img.shields.io/badge/clintphillips.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://clintphillips.dev)
+[![Email](https://img.shields.io/badge/clintdotphillips%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:clintdotphillips@gmail.com)
+[![npm](https://img.shields.io/badge/npx%200xdeadd-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/0xdeadd)
 
-**Live numbers (180 days in production):**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- $76,725 processed through Stripe
-- 1,647 customers served
-- 2,105 paid bookings completed
-- 0.05% refund rate (1 of 1,976)
+<sub>**Open to senior / staff full-stack roles** — remote or Atlanta in-office. Contract welcome.</sub>
+
+</div>
+
+---
+
+## Now in production
+
+**[book.zanysplayworld.com](https://book.zanysplayworld.com)** — a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
+
+<div align="center">
+
+| 💵 **$76,725** | 👥 **1,647** | ✅ **2,105** | ↩️ **0.05%** |
+|:---:|:---:|:---:|:---:|
+| processed through Stripe | customers served | paid bookings completed | refund rate (1 of 1,976) |
+
+<sub>Live numbers — 180 days in production</sub>
+
+</div>
 
 ## Featured projects
 
@@ -28,7 +52,7 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 
 ## Open source
 
-**Past 30 days: 16 contributions across 11 projects** (3 merged, 7 in flight, plus 1 patch to the Linux kernel via LKML). Mix of one-line typo patches and substantive features. The workflow practice across submission cultures (GitHub, LKML email, GitLab MR, direct-to-maintainer) matters as much as the code.
+**Spring 2026: 16 contributions across 11 projects in 30 days** (3 merged, 7 in flight, plus 1 patch to the Linux kernel via LKML). Mix of one-line typo patches and substantive features. The workflow practice across submission cultures (GitHub, LKML email, GitLab MR, direct-to-maintainer) matters as much as the code.
 
 ### Recent contributions
 
@@ -45,10 +69,10 @@ Currently shipping **[book.zanysplayworld.com](https://book.zanysplayworld.com)*
 
 Also in flight on `makeplane/plane`, `Eventual-Inc/Daft`, `jaegertracing/jaeger-ui`, `canonical/cloud-init`.
 
-## Contact
+---
 
-- Site: [clintphillips.dev](https://clintphillips.dev)
-- Email: clintdotphillips@gmail.com
-- Open to senior / staff full-stack roles, remote or Atlanta in-office. Contract welcome.
+<div align="center">
 
 `$ npx 0xdeadd`
+
+</div>
