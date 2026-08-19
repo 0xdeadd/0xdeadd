@@ -21,23 +21,11 @@
 
 ---
 
-## Now shipping
+## The main business
 
-**[cowartind.com](https://cowartind.com)** — marketing and lead-gen site for Cowart Industrial Services, an industrial environmental services company (vacuum trucks, waste transport, wastewater management, 24-hour emergency dispatch). Next.js with structured data and an SEO lint pass built into every deploy.
+**[colorpop.ink](https://colorpop.ink)** — Color Pop, my studio. Websites, SEO, ads, and print for West Georgia businesses. I build and operate the whole thing: the Next.js platform it runs on, the client sites it ships, and the print side (design through production).
 
-## Still in production
-
-**[book.zanysplayworld.com](https://book.zanysplayworld.com)** — a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
-
-<div align="center">
-
-| 💵 **$76,725** | 👥 **1,647** | ✅ **2,105** | ↩️ **0.05%** |
-|:---:|:---:|:---:|:---:|
-| processed through Stripe | customers served | paid bookings completed | refund rate (1 of 1,976) |
-
-<sub>Live numbers — 180 days in production</sub>
-
-</div>
+Latest ship: **[cowartind.com](https://cowartind.com)** — marketing and lead-gen site for Cowart Industrial Services, an industrial environmental services company (vacuum trucks, waste transport, wastewater management, 24-hour emergency dispatch). Next.js with structured data and an SEO lint pass built into every deploy.
 
 ## Featured projects
 
