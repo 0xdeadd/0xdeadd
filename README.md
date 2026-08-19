@@ -21,7 +21,11 @@
 
 ---
 
-## Now in production
+## Now shipping
+
+**[cowartind.com](https://cowartind.com)** — marketing and lead-gen site for Cowart Industrial Services, an industrial environmental services company (vacuum trucks, waste transport, wastewater management, 24-hour emergency dispatch). Next.js with structured data and an SEO lint pass built into every deploy.
+
+## Still in production
 
 **[book.zanysplayworld.com](https://book.zanysplayworld.com)** — a production booking and operations platform for an indoor play center I help run in Newnan, Georgia. Built solo on Next.js, Stripe, and Postgres.
 
